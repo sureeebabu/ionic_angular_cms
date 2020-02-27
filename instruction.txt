@@ -1,0 +1,8 @@
+https://medium.com/codingthesmartway-com-blog/angular-chart-js-with-ng2-charts-e21c8262777f
+
+To install chats
+1.npm install ng2-charts
+2.npm install chart.js
+3.<script src="node_modules/chart.js/src/chart.js"></script> // index.html
+4.import { ChartsModule } from 'ng2-charts';  // chart.module.ts and import
+----------------------------------------
